@@ -1,6 +1,6 @@
 ## Paper Citation Prediction with Ridge, ElasticNet, XGBoost, and Stacked Models
 
-TiU Data Science MAster Machine Learning Individual Assignment Project.
+TiU Data Science Master, Machine Learning Individual Assignment Project.
 This work graded based on the Codalab competition created by the teachers.
 
 # Overview
